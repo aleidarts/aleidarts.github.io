@@ -1,6 +1,7 @@
-## (Nombre del proyecto)
+## Proyecto Portfolio - Aleida Plasencia
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+Segundo curso - 2023
 
 
 
@@ -8,60 +9,37 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Proyecto portfolio 
 
-**Web:**   (url github.io)
+**Web:**   aleida.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Aleida Plasencia Martín
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Portfolio de arte de estudiante.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Portfolio
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
-
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
-
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
-
-**Tamaño proyecto:** 14MB 
+**Probado en:**   Google Chrome y móviles android.
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 03/2023 - 06/2023
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios** :
 
 - Github:
-- Twitter
 - Instagram
 
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
-
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
+ 
+Comienza con una intro de un par de segundos - Pasa al menú, que contiene una pestaña de ajustes, juegos, créditos, arte digital y tradicional, ventas y un icono de sonido. 
 
 ### 2.2. Esquema de navegación 
 
-
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
-
-
-
+Intro - Menú - Juegos(puzle) / Ajustes (cambio de canción, volúmen y vídeo) / Créditos (texto informativo) / Ventas (Imágenes de ejemplos y texto informativo) / Arte digital (imágenes) / Arte tradicional (imágenes) - Cada escena cuenta con un botón de regreso al menú.
 
 # 3. Metodología
 
@@ -71,76 +49,39 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
-
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto muestra parte de mis trabajos en los distintos ámbitos del arte durante los últimos años.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
-
+- Orientado a estudiantes
 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
+Los iconos utlizados son de creación propia o aportados por la aplicación. Las imágenes también son originales y la música está acreditada más abajo. Las distintas pestañas del menú funcionan de forma parecida, con visor de imágenes o solamente texto, además de la ventana del puzle, que funciona solo con seleccionar las piezas con el botón izquierdo y moverlas.
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+La música se activa sola perfectamente en la aplicación y la previsualización en esta. Sin embargo, entras desde internet, hay que darle al icono de la música en el menú para que comience a sonar.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
-
-
-# 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
-
-**Herramientas utilizadas**
+* Musica:  West Coast (acústica) - Imagine Dragons y Higher Ground (acústica) - Imagine Dragons
+* Imágenes: Imágenes originales
 
 - Hippani Animator 5.1
-- 
-
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
 https://creativecommons.org/licenses/?lang=es
 
-Mayo 2023
+Junio 2023
