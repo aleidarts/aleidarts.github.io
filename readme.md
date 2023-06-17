@@ -1,6 +1,6 @@
 ## Proyecto Portfolio - Aleida Plasencia
 
-Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Universidad de Granada
 Segundo curso - 2023
 
 
@@ -9,7 +9,7 @@ Segundo curso - 2023
 
 
 
-**Titulo** : Proyecto portfolio 
+**Título** : Proyecto portfolio 
 
 **Web:**   aleida.github.io
 
@@ -63,7 +63,7 @@ Este  proyecto muestra parte de mis trabajos en los distintos ámbitos del arte 
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-Los iconos utlizados son de creación propia o aportados por la aplicación. Las imágenes también son originales y la música está acreditada más abajo. Las distintas pestañas del menú funcionan de forma parecida, con visor de imágenes o solamente texto, además de la ventana del puzle, que funciona solo con seleccionar las piezas con el botón izquierdo y moverlas.
+Los iconos utilizados son de creación propia o aportados por la aplicación. Las imágenes también son originales y la música está acreditada más abajo. Las distintas pestañas del menú funcionan de forma parecida, con visor de imágenes o solamente texto, además de la ventana del puzle, que funciona solo con seleccionar las piezas con el botón izquierdo y moverlas.
 
 
 ### Etapa 3: Problemas identificados
